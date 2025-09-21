@@ -168,7 +168,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Cycle the seawall (rent bikes for C$8/hour), spot bald eagles and seals, or simply stroll through ancient cedar forests. The views of Lions Gate Bridge and the city skyline are breathtaking.
 
-![Stanley Park](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vancouver_-_Stanley_Park_-_2009.jpg/800px-Vancouver_-_Stanley_Park_-_2009.jpg)
+![Stanley Park]({{ site.url }}/assets/images/Stanley-Park-from-Above.jpg)
 
 **Insider tips:**
 - **Best activity:** Rent a bike and cycle the 9km seawall path
@@ -312,7 +312,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** It's controlled chaos at its most charming - fishmongers tossing salmon, artisan cheese makers, and the first Starbucks ever (opened 1971). The energy is infectious!
 
-![Pike Place Market](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pike_Place_Market_full_view.jpg/800px-Pike_Place_Market_full_view.jpg)
+![Pike Place Market]({{ site.url }}/assets/images/pike_place_market-seattle.jpg)
 
 **Insider tips:**
 - **Best time:** Early morning for fresh seafood arrivals

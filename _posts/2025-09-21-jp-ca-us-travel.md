@@ -73,6 +73,8 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Walk through a serene forest of 100,000 trees donated from across Japan to reach the massive wooden torii gate - Japan's largest, made from 1,500-year-old Taiwanese cypress.
 
+![Meiji Shrine]({{ site.url }}/assets/images/meiji_shrine.jpg)
+
 **Insider tips:**
 - **Best time:** Weekday mornings for peaceful contemplation
 - **What to see:** Traditional wedding processions (especially on weekends)
@@ -82,6 +84,8 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 **Shibuya Crossing** (渋谷スクランブル交差点) - **The world's busiest pedestrian crossing.** Just a short subway ride from Ginza, this iconic intersection handles up to 3,000 people simultaneously.
 
 **Why you'll love it:** It's controlled chaos at its most beautiful - a mesmerizing dance of humanity that symbolizes Japan's post-war economic miracle. Featured in "Lost in Translation" and countless other films.
+
+![Shibuya Crossing]({{ site.url }}/assets/images/shibuya_crossing.jpg)
 
 **Insider tips:**
 - **Best view:** From the Magnet rooftop bar or Shibuya Scramble Square observatory
@@ -184,6 +188,8 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 **Capilano Suspension Bridge Park** - **Adrenaline rush with history.** Just 20 minutes north by bus or car.
 
 **Why you'll love it:** Walk across a 137m bridge suspended 70m above the Capilano River. The original hemp rope bridge was built in 1889 - now it's steel cables supporting 100 tons!
+
+![Capilano Suspension Bridge Park]({{ site.url }}/assets/images/canilano_bridge.jpg)
 
 **Insider tips:**
 - **Best time:** Early morning to avoid tour bus crowds

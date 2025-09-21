@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cross-Cultural Pacific Odyssey: Japan to North America"
+title: "Travel 202509: Japan to North America"
 date: 2025-09-21
 categories: travel
 tags: [Japan, Canada, United States, Tokyo, Vancouver, Seattle, Washington-DC, New-York, San-Francisco, Travel-Itinerary]
@@ -46,7 +46,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Watch master chefs prepare fresh seafood right before your eyes. The energy is infectious - vendors shouting their catches, the sizzle of grills, and the freshest sushi you'll ever taste.
 
-![Tsukiji Outer Market](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tsukiji_Outer_Market_2020.jpg/800px-Tsukiji_Outer_Market_2020.jpg)
+![Tsukiji Outer Market]({{ site.url }}/assets/images/tsukiji.jpg)
 
 **Insider tips:**
 - **Best time:** Arrive by 8 AM to beat crowds and see peak activity

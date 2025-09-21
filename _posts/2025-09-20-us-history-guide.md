@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interactive Guide: History of the United States (1490 - Present)"
-date: 2025-09-22
+date: 2025-09-20
 categories: history
 tags: [United-States, American-History, Interactive-Guide, Education, Timeline]
 excerpt: "An interactive exploration of American history from pre-colonial times to the present day. This comprehensive guide covers major events, figures, and developments that shaped the United States."

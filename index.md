@@ -2,12 +2,7 @@
 layout: default
 title: Home
 ---
-
-# Neo's Blog
-
-Singularity is nearer.
-
-## Recent Posts
+## Posts
 
 {% for post in site.posts %}
 ### [{{ post.title }}]({{ post.url }})

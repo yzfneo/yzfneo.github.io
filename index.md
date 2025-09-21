@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to Neo's Blog
+# Neo's Blog
 
-This is my personal blog where I share thoughts, projects, and updates.
+Singularity is nearer.
 
 ## Recent Posts
 
@@ -17,13 +17,3 @@ This is my personal blog where I share thoughts, projects, and updates.
 
 [Read more →]({{ post.url }})
 {% endfor %}
-
-## About This Blog
-
-This blog covers topics including:
-- Personal projects and updates
-- Technology insights
-- Development tutorials
-- Open source contributions
-
-Stay tuned for more content!

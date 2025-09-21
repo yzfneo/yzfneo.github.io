@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Neo's Blog
-description: Personal blog and project updates
 
 # Blog configuration
 permalink: /:year/:month/:day/:title/

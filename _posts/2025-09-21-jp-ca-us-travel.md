@@ -61,6 +61,8 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** The approach through Nakamise shopping street is a journey through time - incense wafts through the air as you pass stalls selling traditional snacks and souvenirs. The massive red lantern at Thunder Gate weighs 700kg!
 
+![Senso-ji Temple]({{ site.url }}/assets/images/senso_ji_temple.jpg)
+
 **Insider tips:**
 - **Best time:** Early morning or sunset for fewer crowds and magical lighting
 - **What to do:** Draw an omikuji (fortune paper) and visit the traditional shops
@@ -326,6 +328,8 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 **Space Needle** - **Iconic 1962 World's Fair legacy.** Just a 15-minute walk from the market.
 
 **Why you'll love it:** This 184m tower symbolizes Seattle's Space Age optimism. The rotating restaurant completes a full circle every 47 minutes!
+
+![Space Needle]({{ site.url }}/assets/images/space_needle.jpg)
 
 **Insider tips:**
 - **Best time:** Sunset for magical city-mountain views

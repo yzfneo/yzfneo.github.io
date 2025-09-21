@@ -5,6 +5,8 @@ title: Home
 
 # Neo's Blog
 
+Singularity is nearer.
+
 ## Recent Posts
 
 {% for post in site.posts %}

@@ -1,5 +1,3 @@
-# yzfneo.github.io
-
 Personal blog/website for Neo (yzfneo) powered by Jekyll (minima theme) and hosted on GitHub Pages.
 
 Live demo: https://yzfneo.github.io/

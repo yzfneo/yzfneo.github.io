@@ -56,7 +56,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **Cost:** Tokyo Metro day pass ~¥600 for unlimited rides
 
 **Location:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1d3241.881!2d139.7704308!3d35.6654418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c0e8c1c1c5f%3A0x8c1c1c5f8c1c1c5f!2sTsukiji%20Outer%20Market!5e0!3m2!1sen!2s!4v1623456789012!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps?q=Tsukiji+Outer+Market+Tokyo&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **Senso-ji Temple** (浅草寺) - **Tokyo's spiritual heart.** Take the subway 40 minutes via Hanzomon Line for free entry to Japan's oldest temple (established 645 AD).
 
@@ -184,7 +184,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **Pro tip:** Visit at sunrise for fewer crowds and magical light
 
 **Location:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.998!2d-123.1447!3d49.3017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486718b1e0c3e7d%3A0x8c1c1c5f8c1c1c5f!2sStanley%20Park!5e0!3m2!1sen!2s!4v1623456789012!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dOPUYYBJ4pDnrY&q=Stanley+Park+Vancouver+Canada&zoom=14" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **Capilano Suspension Bridge Park** - **Adrenaline rush with history.** Just 20 minutes north by bus or car.
 
@@ -334,7 +334,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **Pro tip:** Take the underground tour to see the market's hidden levels
 
 **Location:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.5!2d-122.342!3d47.608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906abfe7a7a0f1%3A0x8c1c1c5f8c1c1c5f!2sPike%20Place%20Market!5e0!3m2!1sen!2s!4v1623456789012!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps?q=Pike+Place+Market+Seattle&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **Space Needle** - **Iconic 1962 World's Fair legacy.** Just a 15-minute walk from the market.
 

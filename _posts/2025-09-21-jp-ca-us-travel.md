@@ -51,11 +51,12 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 **Insider tips:**
 - **Best time:** Arrive by 8 AM to beat crowds and see peak activity
 - **What to eat:** Fresh uni (sea urchin) at "Sushi Dai" (arrive early, ~¥4,000), premium tuna at "Maguro Bito," or street food like tamagoyaki (grilled egg)
-- **Pro tip:** Take a sushi-making class at the market's cooking school
+- **Pro tip:** Take a sushi-making class at the market's cooking school; consider joining a morning market adventure tour for ~$162/adult that includes tuna auction viewing
+- **Tour options:** Popular private food tours start from $104/adult for 4-hour experiences with licensed guides, or $156 for comprehensive tuna auction and market tours
 - **Cost:** Tokyo Metro day pass ~¥600 for unlimited rides
 
 **Location:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.881!2d139.7704308!3d35.6654418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c0e8c1c1c5f%3A0x8c1c1c5f8c1c1c5f!2sTsukiji%20Outer%20Market!5e0!3m2!1sen!2s!4v1623456789012!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1d3241.881!2d139.7704308!3d35.6654418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c0e8c1c1c5f%3A0x8c1c1c5f8c1c1c5f!2sTsukiji%20Outer%20Market!5e0!3m2!1sen!2s!4v1623456789012!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **Senso-ji Temple** (浅草寺) - **Tokyo's spiritual heart.** Take the subway 40 minutes via Hanzomon Line for free entry to Japan's oldest temple (established 645 AD).
 
@@ -258,6 +259,10 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **Mid-range:** Farm-to-table restaurants (C$20-35)
 - **Splurge:** Fresh seafood with ocean views (C$40+)
 
+**Tour Options:**
+- **Vancouver City Sightseeing Tour:** Comprehensive 6.5-hour guided tour covering top attractions from $137.35/adult. Includes Stanley Park (30 mins), Granville Island (30 mins), Capilano Suspension Bridge Park (1.5 hrs), Vancouver Lookout (45 mins), with hotel pickups and admission fees. Highly rated (4.9 stars) for knowledgeable guides and scenic itineraries passing through Gastown, Chinatown, and over Lion's Gate Bridge.
+- **Small Group Bridge & Mountain Day Tour:** 5-hour experience combining Capilano Suspension Bridge and Grouse Mountain wildlife refuge from $214.74/adult, including gondola rides and bear viewing (weather permitting).
+
 **Getting Around Vancouver:**
 - **Transit:** Compass Card for buses/SkyTrain (C$6 day pass)
 - **Walking:** Very walkable downtown core
@@ -400,6 +405,12 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **Cycling:** Bike share programs available
 - **Taxi/Rideshare:** Uber/Lyft widely available
 
+**Tour Options:**
+- **Chihuly Garden and Glass:** World's largest collection of Dale Chihuly's glass art ($38-45 admission). Eight indoor galleries and landscaped gardens feature stunning sculptures like Persian Ceiling and 100-foot-long glass installation. Highly rated (4.8 stars, #1 thing to do in Seattle) with glass blowing demonstrations, audio tours, and occasional special exhibits. Combo tickets with Space Needle available for $74 total.
+- **Museum of Pop Culture:** Interactive effects covering pop culture ($35 admission). Sound Lab for hands-on musical instruments, Sci-Fi and Horror galleries, Nirvana memorabilia. Features live music, video game exhibits, and concerts in the Sky Church venue.
+- **Space Needle and Chihuly Combo:** Combined ticket ($73-74) for 3-hour experience - 360° city views from 520 feet up plus glass art collection. Includes rotating glass floor, digital photos, spinning restaurant, and outdoor gardens.
+- **Seattle City Tour:** Comprehensive 3-hour city highlights tours from $89, covering Pike Place Market, Space Needle, waterfront, and neighborhoods.
+
 **Evening in Seattle:**
 - **Belltown bars:** Trendy cocktail scene
 - **Pioneer Square:** Historic district with live music
@@ -432,6 +443,16 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - 2:00 PM: Bureau of Engraving and Printing
 - The White House, People's House
 
+**Tour Options:**
+
+- **DC Monuments and Memorials Night Tour:** Evening guided bus tour covering major DC monuments from $69/adult. 3-hour tour includes Washington Monument, Lincoln Memorial, Jefferson Memorial, and Arlington Cemetery entrance. Highly rated (4.9 stars, 163+ reviews) for knowledgeable guides and comprehensive coverage of illuminated landmarks. Features live narration, hotel pickup, and skip-the-line monument access.
+
+- **Washington DC Moonlight Tour by Electric Cart:** Guided evening electric cart tour of monuments from $83/adult. 2-hour tour covers major DC sites with knowledgeable DC native guides. Perfect for those seeking a quieter evening experience. Highly rated (4.9 stars, 163+ reviews) for personalized service and detailed historical commentary.
+
+- **DC Monuments and Capitol Hill Tour by Electric Cart:** Comprehensive guided tour from $62/adult. Visit monuments, memorials, and Capitol Hill sites on an air-conditioned golf cart. 2-hour experience includes White House exterior, monuments, and detailed history. Recommended for small groups preferring electric cart transportation over walking.
+
+- **Washington DC in One Day Guided Sightseeing Tour:** Full-day guided van tour from $89/adult. 6-hour comprehensive tour including Statue of Liberty cruise, Times Square, Empire State Building, and selective museum entries. Features knowledgeable guide, transportation, and priority access. Popular for first-time visitors with busy itineraries.
+
 ### Additional Attractions
 - **Arlington National Cemetery**: Historic, ~20 min drive, free entry (reserve tour), Metro $2 from Farragut West. **History**: Established 1864 during Civil War, 400,000+ graves including JFK and Unknown Soldiers. **Interesting Fact**: More than 3,000 burials annually, guards changed every hour/30 minutes. **Culture**: Witness the solemn changing of the guard at Tomb of Unknown Soldier.
 
@@ -456,6 +477,13 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **The Wharf DC**: 河畔街区，餐厅与夜景。
 - **Washington National Cathedral**: 新哥特式大教堂，塔顶视野开阔。
 
+**Tour Options:**
+- **DC Monuments and Memorials Night Tour:** Comprehensive 3-hour guided evening tour of DC's iconic monuments from $69/adult. Includes lit-up views of Washington Monument, Lincoln Memorial, Jefferson Memorial, and Arlington National Cemetery with audio narration and stops. Highly rated (4.7 stars, #1 night tour) for knowledgeable guides and efficient routing. Includes round-trip transportation and hotel pickups.
+- **Washington DC in One Day Guided Sightseeing Tour:** 6-hour comprehensive city tour from $89/adult covering Capitol Hill, National Archives, Arlington National Cemetery, and Smithsonian museums. Features knowledgeable guide, air-conditioned transport, and select museum entries. Popular with first-time visitors for its efficiency and depth. Includes entry to Arlington and Capitol tours.
+- **Smithsonian Highlights Walking Tour:** 3-hour guided exploration from $79/adult focusing on Air & Space Museum, National Gallery of Art, and American History Museum. Includes reserved Smithsonian museum tickets, audio tours, and expert narration covering America's cultural heritage. Highly rated for small group sizes and expert guides.
+- **Arlington National Cemetery Walking Tour & Changing of the Guards:** 2.5-hour memorial experience from $69/adult visiting JFK, Robert Kennedy, and Arlington House gravesites. Includes Tomb of Unknown Soldier changing of the guard at Arlington National Cemetery. Provides audio tour devices and written guides for deeper historical context.
+- **Capitol Hill Small Group Tour with Reserved Passes:** 3-hour guided Capitol building tour from $69/adult including reserved entry passes for House Gallery and Senate Gallery. Features knowledgeable licensed guide, historical insights, and photo opportunities with congressional buildings backdrop. Accommodates up to 16 people for personalized experience.
+
 
 ## Day 10: New York - 2025/10/04
 
@@ -470,13 +498,22 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 ### Additional Attractions
 - **Central Park Zoo**: ~10 min walk, tickets $20. **History**: Opened 1864 as part of Central Park design, features over 130 species. **Interesting Fact**: Famous for "Madagascar" movie inspiration and rare snow leopards. **Culture**: See red pandas and sea lions in Victorian-era architecture.
 
-- **Bryant Park** or **Times Square Subway Station Features**. **History**: Site of New York's first World's Fair (1853), transformed from 1970s decline to vibrant public space. **Interesting Fact**: Hosts free summer movie nights and winter ice skating. **Restaurants**: Try "Bryant Park Grill" for American classics (~$25-40), or food trucks for diverse street food.
+- **Bryant Park** or **Times Square Subway Station Features**. **History**: Site of New York's first World's Fair (1853), transformed from 1970s decline to vibrant public space. **Interesting Fact**: Hosts free summer movie nights and winter ice skating. **Restaurants**: Try "Bryant Park Grill" for American classics (~$25-40), or food trucks for diverse street food. **Culture**: Glazed terracotta entrance and ornate staircases tell stories of New York’s architectural heritage.
 
     <iframe src="https://maps.google.com/maps?q=times+square+new+york&output=embed" width="600" height="450"></iframe>
 
 - **Top of the Rock / Empire State Building 夜景**: 任选其一，注意预约时段。**History**: Empire State (1931) was world's tallest building for 40 years; Top of the Rock (1933) offers better Central Park views. **Interesting Fact**: Empire State hit by plane in 1945, survived with minimal damage. **Culture**: Top of the Rock shows all five boroughs; Empire State has Art Deco interiors.
 
 - **The Edge at Hudson Yards**: 玻璃观景平台，日落打卡。**History**: Opened 2020 as Western Hemisphere's highest outdoor sky deck at 1,131 feet. **Interesting Fact**: Glass floor panels and angled walls create thrilling experience. **Culture**: Represents NYC's continuous architectural innovation.
+
+**Tour Options:**
+- **The Met Museum & Central Park New York Exclusive Guided Tour:** Private walking tour of the Metropolitan Museum of Art and Central Park highlights from $238.50/adult. 5.5-hour comprehensive experience includes admission to The Met with art historian guide focusing on world-class collections from Egyptian statues to modern masterpieces. Follows with Central Park exploration of Bethesda Fountain, Strawberry Fields, and Sheep Meadow. Highly rated (5.0 stars, 16 reviews) for knowledgeable guides and private experience.
+- **Statue of Liberty and Ellis Island Tour:** 5-hour harbor experience from $79/adult including all-inclusive ferry tickets and pedestal access. Features Statue of Liberty grounds visitation and Ellis Island immigration museum. Globally award-winning tour (4.9 stars, 5,813 reviews) for combining America's symbol with immigrant history.
+- **9/11 Ground Zero Insider Tour:** 90-minute emotional experience from $39/adult with firsthand accounts of September 11th. Includes 9/11 Memorial grounds, multimedia exhibits, and survivor stories with personal connections to the tragedy. Highly acclaimed (4.9 stars, 12,259 reviews) for authentic narratives.
+- **NYC in a Day Guided Sightseeing Tour:** Comprehensive 6-hour city highlights from $99/adult covering Statue of Liberty cruise, Times Square, Empire State Building, Central Park, and Rockefeller Center. Features knowledgeable guide, transportation, and selective museum entries. Highly rated (4.9 stars, 4,926 reviews) for comprehensive coverage and efficient routing through Manhattan's top sights.
+- **Statue of Liberty and Ellis Island Tour:** All-inclusive 5-hour harbor experience from $79/adult with ferry tickets, audio tours, and pedestal access. Includes immigration museum and grounds visitation. Popular choice (4.9 stars, 5,813 reviews) for combining America's symbol with immigrant history, offering both outdoor exploration and indoor exhibits.
+- **9/11 Ground Zero Insider Tour:** Emotionally powerful 90-minute experience from $39/adult with oral histories from locals impacted by September 11th. Includes memorial grounds, multimedia exhibits, and survivor stories. Highly acclaimed (4.9 stars, 12,259 reviews) for authentic firsthand accounts and comprehensive 9/11 narrative.
+- **Metropolitan Museum of Art Exclusive Guided Tour:** 2-hour museum exploration from $65/adult focusing on greatest masterpieces across civilizations. Includes reserved tickets and expert art historian guide. Perfect for art enthusiasts (5.0 stars, 90 reviews) covering ancient Egyptian temples to contemporary Western art collections.
 
 
 ## Day 11: New York - 2025/10/05
@@ -560,6 +597,12 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 - **Santana Row（San Jose）**: 欧式商业街区，晚餐与购物。**History**: Opened 2002, designed as European-style village, $1 billion development. **Interesting Fact**: 70+ shops and restaurants, includes luxury hotels and apartments. **Restaurants**: Try "The Left Bank" for French bistro (~$25-40), "Olla Cocina" for Mexican fusion, or "Pizza Antica" for wood-fired pizza. **Culture**: Upscale outdoor shopping and dining experience with fountains and architecture.
 
+**Tour Options:**
+- **San Francisco: Alcatraz Island Prison Tour with Bay Cruise:** 4-hour comprehensive experience from $627.35/adult including Alcatraz ferry, bay cruise, and audio tour. Features federal prison tour (1934-1963) where Al Capone and "Birdman" served time, narrated by former guards and prisoners. Includes 36 escape attempts history and restricted areas access. Highly rated (4.9 stars) for immersive prison experience and scenic bay views.
+- **1-Day Napa Valley, Sonoma Wine Country, and Muir Woods Tour:** Full-day wine country expedition from $178/adult covering Napa Valley wineries and Muir Woods redwoods. Includes boutique wineries tasting, historic Sonoma Plaza lunch, and 1.5-hour Muir Woods walk among tallest trees. Features knowledgeable guides and Golden Gate Bridge views.
+- **Alcatraz Tour with Muir Woods and Sausalito Small-Group:** Comprehensive 7-hour experience from $437.53/adult combining Alcatraz Island prison tour with Muir Woods ancient redwoods and Sausalito waterfront village. Includes ferry transportation, audio tours, and flexible scheduling.
+- **Lombard Street Tour:** Cultural experience focused on world's crookedest street from highlights tour. 2-hour guided walking tour of Lombard Street's 8 switchbacks descending at 27% grade, including nearby attractions like Coit Tower and North Beach neighborhoods.
+
 
 ## Day 16: Flight back to Tokyo - 2025/10/10
 
@@ -602,6 +645,12 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 ### Additional Attractions
 - **Beaches and Marisa Ridge Trails**: Hiking, weather warm in Oct, rent bikes.
+
+**Tour Options:**
+- **Adventure World Day Tour:** Comprehensive wildlife park experience from ¥4,200/adult (including round-trip bus from major hotels). Features giant panda enclosures, marine mammal shows, roller coasters, and seasonal illuminations. Highly rated family attraction with 5.7 million annual visitors and educational programs about animal conservation.
+- **Shirahama Onsen Hot Spring Experience:** Full-day wellness retreat from ¥3,800 including transportation and multiple onsen access. Features natural outdoor hot springs in peaceful coastal setting, traditional Japanese rotemburo baths, and scenic Pacific Ocean views. Includes relaxation areas and therapeutic mineral waters.
+- **Shirara Beach & Coastal Geology Tour:** Half-day coastal exploration from ¥2,500 combining beautiful Shirara Beach with geological wonders like Sandanbeki cliffs and Engetsu Island. Includes local boat access to sea cave formations, hiking trails, and panoramic sunset views over the Pacific.
+- **Shirahama Marine & Wildlife Experience:** 3-hour guided tour from ¥6,500 focusing on local marine life and coastal ecosystems. Features snorkeling opportunities, sea turtle feeding programs, and cultural insights into traditional Japanese fishing communities along the Wakayama coast.
 
 ### Overall Tips
 - Book tickets in advance for popular sites (e.g., Alcatraz, Statue of Liberty).

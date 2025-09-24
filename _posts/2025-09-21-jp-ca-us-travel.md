@@ -184,7 +184,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 - **Pro tip:** Visit at sunrise for fewer crowds and magical light
 
 **Location:**
-<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dOPUYYBJ4pDnrY&q=Stanley+Park+Vancouver+Canada&zoom=14" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?q=Stanley+Park+Vancouver+Canada&output=embed" width="600" height="450"></iframe>
 
 **Capilano Suspension Bridge Park** - **Adrenaline rush with history.** Just 20 minutes north by bus or car.
 

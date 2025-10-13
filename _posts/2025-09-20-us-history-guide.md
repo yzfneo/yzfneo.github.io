@@ -17,8 +17,9 @@ This interactive guide provides a comprehensive overview of American history, fr
 In 1492, Christopher Columbus, an Italian explorer sponsored by Spain, crossed the Atlantic Ocean in search of a western route to Asia for trade. Instead, he landed in the Caribbean, which led to the European discovery and eventual colonization of the Americas, marking the beginning of the transatlantic exchange.
 
 **Key Figures:** Christopher Columbus, Hernán Cortés
-**Population Impact:** Native Americans ~10 million pre-contact
+**Population Impact:** Native Americans ~10-15 million pre-contact (estimated 2-3 million in present-day US territory)
 **Major Events:** Conquest of Aztec and Inca empires in 1500s
+**Economic Impact:** Columbus's voyages opened trade routes worth millions in gold, silver, and resources
 
 ### Early Native American settlements and civilizations
 Long before European arrival, diverse Native American civilizations thrived across the Americas, including the Inca Empire in South America, the Aztec civilization in Mexico, and the Mississippian culture in the southeastern United States. These societies developed advanced agriculture, architecture, and social systems.
@@ -35,10 +36,12 @@ Following Columbus, European powers like Spain, England, and France sent explore
 ## Colonial Period (1600-1775)
 
 ### 1607: Founding of Jamestown, first permanent English settlement
-In 1607, the English founded Jamestown in Virginia, the first permanent settlement in English North America. Established by the Virginia Company, it served as the capital of the Colony of Virginia and played a key role in tobacco cultivation, despite early hardships from disease and conflicts with Native Americans.
+In 1607, the English founded Jamestown in Virginia, the first permanent settlement in English North America. Established by the Virginia Company with 104 settlers, it served as the capital of the Colony of Virginia and played a key role in tobacco cultivation, despite early hardships from disease and conflicts with Native Americans.
 
 **Key Figures:** John Smith, Pocahontas
-**Major Events:** "Starving time" 1609-1610, 30% died; Introduction of tobacco 1612
+**Population Impact:** Started with 104 settlers; "Starving time" 1609-1610 reduced population by 80% to ~60 survivors
+**Economic Impact:** Tobacco exports grew from 2,300 pounds in 1616 to over 1.5 million pounds by 1638
+**Major Events:** "Starving time" 1609-1610, Introduction of tobacco 1612
 
 ### 1620: Pilgrims arrive at Plymouth Rock
 In 1620, the Pilgrims, a group of English Separatists seeking religious freedom, arrived at Plymouth Rock in present-day Massachusetts aboard the Mayflower. They established Plymouth Colony, which became a model for future New England settlements and celebrated modern Thanksgiving.
@@ -67,6 +70,7 @@ The French and Indian War, part of the larger Seven Years' War, pitted British c
 Post-war taxation without representation fostered resentment, exemplified by the Stamp Act (1765) and Tea Act (1773) leading to the Boston Tea Party. These grievances culminated in the push for independence, as colonists argued for no taxation without consent and challenged British authority.
 
 **Key Figures:** Benjamin Franklin, Patrick Henry
+**Economic Impact:** Stamp Act imposed taxes on 50+ legal and commercial items; Boston Tea Party destroyed £10,000 worth of tea (equivalent to $2 million today)
 **Major Events:** Stamp Act 1765, Intolerable Acts 1774
 
 ## American Revolution (1775-1783)
@@ -113,7 +117,16 @@ The Bill of Rights, the first 10 amendments to the Constitution, was adopted in 
 The Louisiana Purchase in 1803 saw the United States acquire 828,000 square miles from France for $15 million, doubling the size of the nation. Negotiated by Jefferson under reservation, it removed French influence from North America and opened the path for westward expansion.
 
 **Key Figures:** Thomas Jefferson, Napoleon Bonaparte
+**Territorial Impact:** Doubled US land area; Cost ~4 cents per acre; Added territory larger than France, Spain, and UK combined
 **Major Events:** Purchase from France, added 13 states to US
+
+### Indian Removal Act and Trail of Tears (1830)
+In 1830, President Andrew Jackson signed the Indian Removal Act, forcibly relocating Native American tribes from their ancestral lands in the Southeast to territories west of the Mississippi River. This policy led to the Trail of Tears (1838-1839), the deadly forced march of the Cherokee Nation and other tribes.
+
+**Key Figures:** Andrew Jackson, John Ross (Cherokee leader)
+**Population Impact:** Five major tribes affected (Cherokee, Chickasaw, Choctaw, Creek, Seminole); ~100,000 Native Americans forcibly relocated
+**Human Cost:** ~15,000 Cherokee died during Trail of Tears (25-50% mortality rate); Total deaths across all tribes estimated at 25,000-50,000
+**Major Events:** Indian Removal Act signed May 28, 1830; Cherokee removal began 1838; Seminole Wars (1817-1858) resisted removal
 
 ### War of 1812 vs. Britain
 The War of 1812, often called the "Second War of Independence," pitted the US against Britain over trade restrictions and impressment of American sailors. It ended in a treaty that spurred nationalism, with key events including the burning of Washington and the successful defense of Baltimore, inspiring the national anthem.
@@ -145,6 +158,9 @@ As the US expanded, slavery divided North and South, leading to compromises like
 In 1861, following Abraham Lincoln's election, South Carolina seceded from the Union, triggering similar actions in 10 other Southern states. The war began with the Confederate attack on Fort Sumter in South Carolina, marking the start of the deadliest conflict in American history, fought primarily over slavery and states' rights.
 
 **Key Figures:** Abraham Lincoln, Jefferson Davis
+**Population Impact:** US population ~31.4 million (1860 census), including ~4 million enslaved African Americans
+**Military Forces:** Union had 2.1 million soldiers, Confederacy 880,000 soldiers
+**Economic Cost:** Total war cost ~$6.6 billion (equivalent to $280 billion today)
 **Major Events:** South Carolina seceded December 20, 1860, Fort Sumter attacked April 12, 1861
 
 ### Key figures: Abraham Lincoln, Robert E. Lee
@@ -194,6 +210,9 @@ In the late 19th century, industrialization transformed the US economy with stee
 ### Immigration boom
 From 1870 to 1920, over 25 million immigrants arrived, mostly from Southern and Eastern Europe, through Ellis Island. They fueled labor forces but also faced nativism, crowded tenements, and cultural clashes in rapidly growing industrial cities.
 
+**Population Impact:** Immigration increased US population by 25% during this period; Ellis Island processed 12 million immigrants from 1892-1954
+**Demographic Changes:** By 1910, immigrants and their children comprised 35% of US population; major groups included Italians (4 million), Jews (2 million), Poles (1.5 million)
+**Economic Impact:** Immigrants provided 50% of industrial workforce in major cities; average immigrant earnings $400-600/year vs. $500-700 for native-born workers
 **Major Events:** Ellis Island opened 1892, Chinese Exclusion Act 1882
 
 ### Labor unions and strikes
@@ -238,6 +257,8 @@ The Roaring Twenties featured economic prosperity, jazz culture, and consumerism
 The October 1929 stock market crash triggered the Great Depression, causing widespread unemployment (25%), bank failures, and poverty. The Dust Bowl in the Great Plains exacerbated agricultural collapse, leading to New Deal programs and global economic reforms.
 
 **Key Figures:** Herbert Hoover, Franklin D. Roosevelt
+**Economic Impact:** Stock market lost 89% of value ($396 billion to $43 billion); Unemployment reached 25% (15 million jobless); GDP fell 30% from $105 billion to $74 billion
+**Social Impact:** 2 million people homeless; Dust Bowl displaced 2.5 million farmers; Bank failures: 9,000+ banks closed (40% of total)
 **Major Events:** Stock market crash October 29, 1929, Banking Act of 1933
 
 ### New Deal programs under FDR
@@ -367,9 +388,12 @@ The 1990s saw explosive growth in technology and the internet, leading to the do
 ## 21st Century and Modern Era (2000-Present)
 
 ### 2001: 9/11 attacks and War on Terror
-On September 11, 2001, al-Qaeda terrorists hijacked four commercial airplanes, crashing two into the World Trade Center in New York City, one into the Pentagon, and the fourth in a field in Pennsylvania after passengers fought back. The attacks killed nearly 3,000 Americans and led to the War on Terror, including invasions of Afghanistan and Iraq.
+On September 11, 2001, al-Qaeda terrorists hijacked four commercial airplanes, crashing two into the World Trade Center in New York City, one into the Pentagon, and the fourth in a field in Pennsylvania after passengers fought back. The attacks killed 2,977 Americans (not including 19 hijackers) and led to the War on Terror, including invasions of Afghanistan and Iraq.
 
 **Key Figures:** George W. Bush, Rudy Giuliani
+**Casualties:** 2,977 victims (343 firefighters, 72 law enforcement, 2,606 in World Trade Center, 125 at Pentagon, 44 in Pennsylvania)
+**Economic Impact:** $100+ billion in direct costs; Stock market closed for 4 days, lost $1.2 trillion in value when reopened
+**Global Response:** Led to creation of Department of Homeland Security and TSA; PATRIOT Act expanded surveillance powers
 **Major Events:** Towers collapse, PATRIOT Act enacted
 
 ### 2001: Enron scandal and economic reforms
@@ -403,9 +427,12 @@ Donald Trump's presidency (2017-2021) was marked by controversial policies, incl
 **Major Events:** Tax Cuts and Jobs Act 2017, First impeachment 2019, Capitol riot January 6, 2021
 
 ### COVID-19 pandemic (2020)
-The COVID-19 pandemic began in 2020, causing a global health crisis that led to lockdowns, economic disruption, and over 1 million deaths in the US. The pandemic accelerated remote work, vaccine development, and highlighted healthcare disparities, fundamentally changing daily life worldwide.
+The COVID-19 pandemic began in 2020, causing a global health crisis that led to lockdowns, economic disruption, and over 1.1 million deaths in the US. The pandemic accelerated remote work, vaccine development, and highlighted healthcare disparities, fundamentally changing daily life worldwide.
 
 **Key Figures:** Anthony Fauci, Joe Biden
+**Health Impact:** 1.1+ million US deaths; 100+ million confirmed cases; Over 7 million people hospitalized
+**Economic Impact:** GDP contracted 3.4% in 2020; Unemployment peaked at 14.8% (23 million jobless); $5+ trillion in government relief spending
+**Social Impact:** 50+ million workers shifted to remote work; Schools closed affecting 55 million students; Vaccine developed in record 11 months
 **Major Events:** WHO declares pandemic March 11, 2020, First vaccines December 2020
 
 ### 2021: US withdrawal from Afghanistan

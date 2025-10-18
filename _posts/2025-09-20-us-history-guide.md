@@ -1977,7 +1977,9 @@ The COVID-19 pandemic began in 2020, causing a global health crisis that led to 
 **Economic Impact:** GDP contracted 3.4% in 2020; Unemployment peaked at 14.8% (23 million jobless); $5+ trillion in government relief spending
 **Social Impact:** 50+ million workers shifted to remote work; Schools closed affecting 55 million students; Vaccine developed in record 11 months
 **Major Events:** WHO declares pandemic March 11, 2020, First vaccines December 2020
-
+<replace_in_file>
+<path>_posts/2025-09-20-us-history-guide.md</path>
+<diff>------- SEARCH
 ### Donald Trump presidency (2017-2021)
 Donald Trump's presidency (2017-2021) was marked by controversial policies, including immigration restrictions, tax cuts, and trade wars. His administration faced two impeachment trials and ended with the January 6, 2021 Capitol riot, followed by his defeat in the 2020 election.
 
@@ -1992,8 +1994,9 @@ The COVID-19 pandemic began in 2020, causing a global health crisis that led to 
 **Economic Impact:** GDP contracted 3.4% in 2020; Unemployment peaked at 14.8% (23 million jobless); $5+ trillion in government relief spending
 **Social Impact:** 50+ million workers shifted to remote work; Schools closed affecting 55 million students; Vaccine developed in record 11 months
 **Major Events:** WHO declares pandemic March 11, 2020, First vaccines December 2020
-
-
+<replace_in_file>
+<path>_posts/2025-09-20-us-history-guide.md</path>
+<diff>------- SEARCH
 ### Barack Obama presidency (2009-2017)
 Barack Obama became the first African American president in 2009, serving two terms. His presidency focused on healthcare reform (Affordable Care Act), economic recovery from the Great Recession, and foreign policy initiatives including the Iran nuclear deal and normalization of relations with Cuba.
 

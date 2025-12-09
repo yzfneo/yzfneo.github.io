@@ -7,6 +7,8 @@ tags: [广西, 南宁, 德天瀑布, 阳朔, 漓江, 龙脊梯田, 旅行攻略]
 excerpt: "广西山水甲天下，五天行程带你领略广西最美风光：从南宁出发，穿越德天跨国瀑布，游览明仕田园，最终抵达阳朔漓江。品尝广西特色美食，体验民族风情，感受中国最美山水。"
 ---
 
+{% include mermaid.html %}
+
 # 广西旅行： Paradise on Earth（12月五日游）
 
 **行程概览：** 南宁集合 → 德天跨国瀑布 → 阳朔漓江 → 龙脊梯田 → 桂林返回
@@ -71,10 +73,10 @@ graph LR
 - 🗺️ [三街两巷美食街位置](https://www.google.com/maps/place/三街两巷)
     <iframe src="https://maps.google.com/maps?q=三街两巷&output=embed" width="600" height="450"></iframe>
 
-### 景点照片
+### 三街两巷历史街区夜景
 
 ![三街两巷历史街区夜景](http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg)
-*三街两巷历史街区夜景*
+
 
 ---
 

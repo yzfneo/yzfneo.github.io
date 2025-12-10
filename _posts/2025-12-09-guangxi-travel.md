@@ -192,6 +192,7 @@ https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
 | 14:00-16:00 | 兴坪古镇       | 免费       | 老街漫步，宁静古朴                   |
 | 16:00-18:00 | 20元人民币背景   | 免费       | 导航"旺旺鱼庄"，下午光线最佳           |
 | 18:00-19:00 | 千里江山图日落   | 免费       | 老寨山登山30分钟，视野绝佳但台阶陡峭       |
+
 📍 兴坪古镇地图：
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.123456789!2d110.4723!3d24.9567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDU3JzI0LjAiTiAxMTDCsDI4JzIwLjMiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 

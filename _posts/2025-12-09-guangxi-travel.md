@@ -9,37 +9,45 @@ excerpt: "广西山水甲天下，五天行程带你领略广西最美风光：�
 
 {% include mermaid.html %}
 
-# 广西旅行： Paradise on Earth（12月五日游）
+# 广西旅行： Paradise on Earth
 
 **行程概览：** 南宁集合 → 德天跨国瀑布 → 阳朔漓江 → 龙脊梯田 → 桂林返回
 
 ```mermaid
 graph LR
-    subgraph 第1-2天
-        A[南宁 12/24] -->|260km, 3h| B[德天瀑布 12/25]
+    subgraph "第1-2天"
+        direction LR
+        A[南宁 12/24]
+        A -->|260km, 3h| B[德天瀑布 12/25]
         B -->|2km| C[蓝洞咖啡 12/25]
         C -->|30km, 40min| D[明仕田园 12/25晚]
     end
-    
-    subgraph 第3天
+
+    subgraph "第3天"
+        direction LR
         D -->|120km, 1.5h| E[白头叶猴保护区 12/26上午]
         E -->|1.5h| F[南宁东站 12:00]
         F -->|高铁2.5h| G[桂林 12/26下午]
     end
-    
-    subgraph 第4-5天
-        G -->|漓江游船4h| H[阳朔 12/27]
+
+    style A fill:#87CEEB
+```
+```mermaid
+graph LR
+    subgraph "第4-5天"
+        direction LR
+        G[桂林 12/26下午] -->|漓江游船4h| H[阳朔 12/27]
         H --> I[十里画廊/遇龙河 12/27]
         I --> J[龙门水岩+兴坪 12/28]
     end
-    
-    subgraph 第6-7天
+
+    subgraph "第6-7天"
+        direction LR
         J --> K[桂林 12/29]
         K --> L[靖江王府/穿山 12/29]
         L --> M[返程 12/30]
     end
-    
-    style A fill:#87CEEB
+
     style M fill:#FFB6C1
 ```
 
@@ -88,10 +96,11 @@ graph LR
 
 ```mermaid
 graph LR
-    A[南宁出发 🚗<br/>07:00] -->|G85高速<br/>260km, 约3h| B[德天瀑布 🌊<br/>11:30]
-    B -->|景区内道路<br/>2km, 10min| C[蓝洞咖啡 ☕<br/>14:00]
-    C -->|高速<br/>30km, 40min| D[明仕田园 🚣<br/>16:30]
-    D --> E[花庐酒店 🏨<br/>18:00入住]
+    A[南宁出发 🚗\n07:00]
+    A -->|G85高速\n260km, 约3h| B[德天瀑布 🌊\n11:30]
+    B -->|景区内道路\n2km, 10min| C[蓝洞咖啡 ☕\n14:00]
+    C -->|高速\n30km, 40min| D[明仕田园 🚣\n16:30]
+    D --> E[花庐酒店 🏨\n18:00入住]
 ```
 
 ### 详细景点安排
@@ -112,18 +121,12 @@ graph LR
 - 🚣 竹筏漂流体验
 - 🌅 日落观景最佳位置
 
-### 地图导航
-- 🗺️ [南宁至德天瀑布路线](https://maps.google.com/maps?q=Detian+Waterfall+China-Vietnam+border)
-- 🗺️ [明仕田园位置](https://maps.google.com/maps?q=Mingshi+Paradise+Yongfu+Guangxi)
+📸 德天瀑布:
+
+![德天瀑布](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/44/e9/cf.jpg)
 
 📍 德天瀑布地图：
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4729.123456789!2d106.7278!3d22.8516!2m3!1f0!2f0!3f0!2m3!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjLCsDUxJzA1LjgiTiAxMDbCsDQzJzQwLjEiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
-📸 瀑布实景：
-
-
-德天跨国瀑布全景
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13242.678689277724!2d106.81078583773034!3d22.814902001438224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b5949ce9842a4b%3A0x109128d98e5f7985!2z5b635aSp54CR5biD!5e0!3m2!1sen!2sus!4v1765413122544!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
@@ -238,15 +241,6 @@ https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
 ### 📍 阳朔西街美食地图
 <iframe src="https://www.google.com/maps/d/embed?mid=1aBcDeFgHiJkLmNoPqRsTuVwXyZ123456789" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-## 💰 费用预算（4人）
-
-**📊 总预算：** ¥13,000 - 15,000（人均¥3,250-3,750）
-
-**🏨 住宿：** ¥4,800 (6晚×¥800/晚)  
-**🚗 交通：** ¥3,500 (租车+高铁+打车)  
-**🎫 门票：** ¥3,200 (德天125+白头叶猴80+靖江王府100+...)  
-**🍽️ 餐饮：** ¥3,000 (人均¥125/天)
-
 ## ⚠️ 关键提醒
 
 ### 🔴 必须提前预订的项目
@@ -260,7 +254,7 @@ https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
 - D4磨盘山码头需提前1小时取票
 - D6相公山日出需04:30出发
 
-### 🟢 省钱技巧
+### 🟢 Tips
 - 桂林米粉在早上吃最正宗且便宜
 - 十里画廊骑行别停收费观景台
 - 兴坪老寨山免费且比相公山视野好

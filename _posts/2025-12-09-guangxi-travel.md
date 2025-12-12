@@ -15,17 +15,17 @@ excerpt: "广西山水甲天下，五天行程带你领略广西最美风光：�
 graph LR
     subgraph "第1-2天"
         direction LR
-        A[南宁 12/24]
-        A -->|260km, 3h| B[德天瀑布 12/25]
-        B -->|2km| C[蓝洞咖啡 12/25]
-        C -->|30km, 40min| D[明仕田园 12/25晚]
+        A[南宁<br/>12/24]
+        A -->|260km, 3h| B[德天瀑布<br/>12/25]
+        B -->|2km| C[蓝洞咖啡<br/>12/25]
+        C -->|30km, 40min| D[明仕田园<br/>12/25晚]
     end
 
     subgraph "第3天"
         direction LR
-        D -->|120km, 1.5h| E[白头叶猴保护区 12/26上午]
-        E -->|1.5h| F[南宁东站 12:00]
-        F -->|高铁2.5h| G[桂林 12/26下午]
+        D -->|120km, 1.5h| E[白头叶猴保护区<br/>12/26上午]
+        E -->|1.5h| F[南宁东站<br/>12:00]
+        F -->|高铁2.5h| G[桂林<br/>12/26下午]
     end
 
     style A fill:#87CEEB
@@ -34,16 +34,16 @@ graph LR
 graph LR
     subgraph "第4-5天"
         direction LR
-        G[桂林 12/26下午] -->|漓江游船4h| H[阳朔 12/27]
-        H --> I[十里画廊/遇龙河 12/27]
-        I --> J[龙门水岩+兴坪 12/28]
+        G[桂林<br/>12/26下午] -->|漓江游船4h| H[阳朔<br/>12/27]
+        H --> I[十里画廊/遇龙河<br/>12/27]
+        I --> J[龙门水岩+兴坪<br/>12/28]
     end
 
     subgraph "第6-7天"
         direction LR
-        J --> K[桂林 12/29]
-        K --> L[靖江王府/穿山 12/29]
-        L --> M[返程 12/30]
+        J --> K[桂林<br/>12/29]
+        K --> L[靖江王府/穿山<br/>12/29]
+        L --> M[返程<br/>12/30]
     end
 
     style M fill:#FFB6C1
@@ -72,16 +72,17 @@ graph LR
 | 19:30 | 晚餐     | **三街两巷**美食街 | 必吃：复记老友粉、甘家界柠檬鸭            |
 | 20:30 | 夜游     | **邕江夜游**    | 票价100元，最后一班21:00           |
 
+### 图片
+
+| 三街两巷历史街区夜景 | 邕江夜游 |
+|:---------|:-----|
+| <img src="http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg"  style="width: 100%; height: 400;"> | <img src="https://p2.cri.cn/M00/29/A5/rBABCWCUvZ6ARQ99AAAAAAAAAAA137.800x449.jpg"  style="width: 100%; height: 400;"> |
+
 ### 地图导航
-- 🗺️ [机场至酒店路线](https://www.google.com/maps/dir/南宁吴圩国际机场/南宁饭店)
-    <iframe src="https://maps.google.com/maps?saddr=南宁吴圩国际机场&daddr=南宁饭店&output=embed" width="600" height="450"></iframe>
 
-  🗺️ [三街两巷美食街位置](https://www.google.com/maps/place/三街两巷)
-    <iframe src="https://maps.google.com/maps?q=三街两巷&output=embed" width="600" height="450"></iframe>
-
-### 三街两巷历史街区夜景
-- ![三街两巷历史街区夜景](http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg)
-
+| 机场至酒店路线 | 三街两巷美食街位置 |
+|:---------|:-----|
+| <iframe src="https://maps.google.com/maps?saddr=南宁吴圩国际机场&daddr=南宁饭店&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> | <iframe src="https://maps.google.com/maps?q=三街两巷&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> |
 
 ---
 
@@ -93,11 +94,11 @@ graph LR
 
 ```mermaid
 graph LR
-    A[南宁出发 🚗\n07:00]
-    A -->|G85高速\n260km, 约3h| B[德天瀑布 🌊\n11:30]
-    B -->|景区内道路\n2km, 10min| C[蓝洞咖啡 ☕\n14:00]
-    C -->|高速\n30km, 40min| D[明仕田园 🚣\n16:30]
-    D --> E[花庐酒店 🏨\n18:00入住]
+    A[南宁出发<br/>07:00]
+    A -->|G85高速<br/>260km, 3h| B[德天瀑布<br/>11:30]
+    B -->|景区内道路<br/>2km, 10min| C[蓝洞咖啡<br/>14:00]
+    C -->|高速<br/>30km, 40min| D[明仕田园<br/>16:30]
+    D --> E[花庐酒店<br/>18:00入住]
 ```
 
 ### 详细景点安排
@@ -169,10 +170,10 @@ graph LR
 
 ```mermaid
 graph LR
-    A[磨盘山码头 09:00] -->|约4小时| B[龙头山码头 14:00]
+    A[磨盘山码头<br/>09:00] -->|约4小时| B[龙头山码头<br/>14:00]
     B --> C[九马画山]
     B --> D[黄布倒影]
-    B --> E[20元人民币背景]
+    B --> E[20元人民币<br/>背景]
 ```
 
 | 时间          | 活动       | 费用       | 注意事项                      |

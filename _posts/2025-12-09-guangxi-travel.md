@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广西旅行：12月南宁、德天瀑布、阳朔五日游"
+title: "广西： Paradise on Earth"
 date: 2025-12-09
 categories: travel
 tags: [广西, 南宁, 德天瀑布, 阳朔, 漓江, 龙脊梯田, 旅行攻略]
@@ -8,8 +8,6 @@ excerpt: "广西山水甲天下，五天行程带你领略广西最美风光：�
 ---
 
 {% include mermaid.html %}
-
-# 广西旅行： Paradise on Earth
 
 **行程概览：** 南宁集合 → 德天跨国瀑布 → 阳朔漓江 → 龙脊梯田 → 桂林返回
 
@@ -78,12 +76,11 @@ graph LR
 - 🗺️ [机场至酒店路线](https://www.google.com/maps/dir/南宁吴圩国际机场/南宁饭店)
     <iframe src="https://maps.google.com/maps?saddr=南宁吴圩国际机场&daddr=南宁饭店&output=embed" width="600" height="450"></iframe>
 
-- 🗺️ [三街两巷美食街位置](https://www.google.com/maps/place/三街两巷)
+  🗺️ [三街两巷美食街位置](https://www.google.com/maps/place/三街两巷)
     <iframe src="https://maps.google.com/maps?q=三街两巷&output=embed" width="600" height="450"></iframe>
 
 ### 三街两巷历史街区夜景
-
-![三街两巷历史街区夜景](http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg)
+- ![三街两巷历史街区夜景](http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg)
 
 
 ---
@@ -144,12 +141,19 @@ graph LR
 | 19:00-20:00 | 日月双塔           | 免费        | 亮灯时间19:00，杉湖栈道拍倒影         |
 | 20:00-21:30 | 正阳路步行街         | 步行        | 晚餐：石记米粉                   |
 
+
 📍 白头叶猴保护区位置：
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3788.123456789!2d107.1234!3d22.3456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjLCsDIwJzQ0LjIiTiAxMDfCsDA3JzE2LjUiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<img src="http://www.news.cn/local/20251204/ce40e9bc1b2c4ce0b0009115c6596277/20251204ce40e9bc1b2c4ce0b0009115c6596277_489db10b3b524d70ba9c87fed4ef26cc.JPG" alt="白头叶猴保护区" style="width: 600; height: auto;">
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.2855660874616!2d107.51533971252847!3d22.26716997962596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b4f057b3266d57%3A0x2a7d4ace67939add!2sChongzuo%20Nature%20Reserve%20Area!5e0!3m2!1sen!2sus!4v1765498803167!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 
 📸 象鼻山日落：
-https://images.unsplash.com/photo-1537531171145-7ae2f14f1e71?w=800&q=80
-象鼻山日落时分
+
+<img src="https://epaper.guilinlife.com/glrbh5/glrb/20240227/0405_0405_2115.jpg" alt="白头叶猴保护区" style="width: 600; height: auto;">
 
 ---
 
@@ -179,9 +183,9 @@ graph LR
 | 19:30-20:30 | 渔火节      | 免费       | 河畔酒店附近，或《印象·刘三姐》¥268    |
 | 21:00       | 西街啤酒鱼    | ¥80/人    | 谢三姐/大师傅啤酒鱼               |
 
-📸 遇龙河美景：
-https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
-遇龙河竹筏漂流
+📸 遇龙河竹筏漂流
+
+<img src="http://www.gx.xinhuanet.com/20240914/b5c478e354504590af7bc55c71a61431/20240914b5c478e354504590af7bc55c71a61431_257002695d3c4f85b4ee4eacdb9c81c6.jpg" alt="遇龙河漂流" style="width: 600; height: auto;">
 
 ---
 
@@ -197,10 +201,11 @@ https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
 | 18:00-19:00 | 千里江山图日落   | 免费       | 老寨山登山30分钟，视野绝佳但台阶陡峭       |
 
 📍 兴坪古镇地图：
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.123456789!2d110.4723!3d24.9567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDU3JzI0LjAiTiAxMTDCsDI4JzIwLjMiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.123456789!2d110.4723!3d24.9567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDU3JzI0LjAiTiAxMTDCsDI4JzIwLjMiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 📸 20元背景打卡点：
 *漓江黄布倒影——20元人民币背面图案*
+<img src="https://p7.itc.cn/images01/20221228/c9b3296fbe3d465c8b566cac0312b193.jpeg" width="100%" height=auto style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 
@@ -215,9 +220,6 @@ https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
 | 靖江王府       | 14:00-16:00 | ¥100      | 含独秀峰，登山顶俯瞰桂林               |
 | 逍遥楼        | 16:30-17:00 | 免费        | 解放桥旁，唐代风格建筑                 |
 | 穿山月岩咖啡     | 17:30-19:00 | 门票¥12    | 别有洞天咖啡馆，冰椰美式¥38           |
-
-📍 穿山公园入口：
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.123456789!2d110.2998!3d25.2345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE0JzA0LjAiTiAxMTDCsDE3JzU5LjMiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 
@@ -237,9 +239,6 @@ https://images.unsplash.com/photo-1542386627-5c29f35d2c3e?w=800&q=80
 | 桂林   | 桂林米粉 | 崇善米粉、石记米粉          | ¥10    | 06:30-15:00  |
 | 阳朔   | 啤酒鱼  | 谢三姐、大师傅啤酒鱼        | ¥80    | 11:00-22:00  |
 | 兴坪   | 啤酒鱼  | 旺旺鱼庄               | ¥60    | 11:00-20:00  |
-
-### 📍 阳朔西街美食地图
-<iframe src="https://www.google.com/maps/d/embed?mid=1aBcDeFgHiJkLmNoPqRsTuVwXyZ123456789" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## ⚠️ 关键提醒
 

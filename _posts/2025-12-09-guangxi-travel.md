@@ -198,9 +198,14 @@ graph LR
 | 19:30-20:30 | 渔火节      | 免费       | 河畔酒店附近，或《印象·刘三姐》¥268    |
 | 21:00       | 西街啤酒鱼    | ¥80/人    | 谢三姐/大师傅啤酒鱼               |
 
-📸 遇龙河竹筏漂流
+📸 
+### 图片
 
-<img src="http://www.gx.xinhuanet.com/20240914/b5c478e354504590af7bc55c71a61431/20240914b5c478e354504590af7bc55c71a61431_257002695d3c4f85b4ee4eacdb9c81c6.jpg" alt="遇龙河漂流" style="width: 600; height: auto;">
+| 十里画廊骑行 | 遇龙河竹筏漂流 | 
+|:---------:|:-----------:|
+| <img src="https://www.guangxitrip.com/pic/guilin/jingdian/yu-long-he/yu-long-he-qi-zi-xing-che-2.jpg"  style="width: 100%; height: 200;"> | <img src="http://www.gx.xinhuanet.com/20240914/b5c478e354504590af7bc55c71a61431/20240914b5c478e354504590af7bc55c71a61431_257002695d3c4f85b4ee4eacdb9c81c6.jpg"  style="width: 100%; height: 200;"> |
+|渔火节 | 西街啤酒鱼 |
+| <img src="http://gx.people.com.cn/NMediaFile/2024/1227/LOCAL17352596640659CR917SJWE.jpg"  style="width: 100%; height: 200;"> | <img src="https://ak-d.tripcdn.com/images/1tx0212000i4wxt33EA88_C_760_506_R5.jpg?proc=autoorient"  style="width: 100%; height: 200;"> 
 
 ---
 
@@ -215,12 +220,13 @@ graph LR
 | 16:00-18:00 | 20元人民币背景   | 免费       | 导航"旺旺鱼庄"，下午光线最佳           |
 | 18:00-19:00 | 千里江山图日落   | 免费       | 老寨山登山30分钟，视野绝佳但台阶陡峭       |
 
-📍 兴坪古镇地图：
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.123456789!2d110.4723!3d24.9567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDU3JzI0LjAiTiAxMTDCsDI4JzIwLjMiRQ!5e0!3m2!1sen!2sus!4v1234567890" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+### 图片
 
-📸 20元背景打卡点：
-*漓江黄布倒影——20元人民币背面图案*
-<img src="https://p7.itc.cn/images01/20221228/c9b3296fbe3d465c8b566cac0312b193.jpeg" width="100%" height=auto style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+| 龙门水岩探洞 | 兴坪古镇 | 
+|:---------:|:-----------:|
+| <img src="https://www.daheyoulun.com/uploads/2025/03/05/1741161458411.jpg"  style="width: 100%; height: 200;"> | <img src="https://data.tibetcn.com/pictures/xingping-old-town2.jpg"  style="width: 100%; height: 200;"> |
+|20元人民币背景 | 千里江山图日落 |
+| <img src="https://p7.itc.cn/images01/20221228/c9b3296fbe3d465c8b566cac0312b193.jpeg"  style="width: 100%; height: 200;"> | <img src="https://ak-d.tripcdn.com/images/1mi0812000jx3w88rC6AF_W_640_0_R5_Q80.jpg?proc=source/trip"  style="width: 100%; height: 200;"> 
 
 ---
 
@@ -235,6 +241,14 @@ graph LR
 | 靖江王府       | 14:00-16:00 | ¥100      | 含独秀峰，登山顶俯瞰桂林               |
 | 逍遥楼        | 16:30-17:00 | 免费        | 解放桥旁，唐代风格建筑                 |
 | 穿山月岩咖啡     | 17:30-19:00 | 门票¥12    | 别有洞天咖啡馆，冰椰美式¥38           |
+
+### 图片
+
+| 相公山日出 | 靖江王府 | 
+|:---------:|:-----------:|
+| <img src="https://you2.autoimg.cn/_autohomecar__zhouyouji/P1569486165071o54zL7bpE7tV8wnmkA6Avu.jpg?imageMogr2/thumbnail/938/crop/!938x527a0a49"  style="width: 100%; height: 200;"> | <img src="https://static.gxrb.com.cn/image/uploadpic/20221230/ad51a16018a04f0760748c8b01b48e14.jpg"  style="width: 100%; height: 200;"> |
+|逍遥楼 | 穿山月岩咖啡 |
+| <img src="http://www.glxiaoyaohu.com/upload/image/20150114/20150114171445214521.jpg"  style="width: 100%; height: 200;"> | <img src="https://nimg.guilinlife.com/mmbiz/0Hv7dawHwrANiCvvl6gNvP4AWRZSNMXDOWiBmO6rz8ZuriPEHLXQz3idv0I5U3z_TEROX9fja9r3lXUVB0DZKOg1rryiQyTxuGxKfVIA5QL8re7y7sG_wLGhSpSWQtg9owjYj71Jg0j3Ssyb6a85gA%3D%3D/media"  style="width: 100%; height: 200;"> 
 
 ---
 

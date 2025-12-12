@@ -80,9 +80,16 @@ graph LR
 
 ### 地图导航
 
-| 机场至酒店路线 | 三街两巷美食街位置 |
-|:---------|:-----|
-| <iframe src="https://maps.google.com/maps?saddr=南宁吴圩国际机场&daddr=南宁饭店&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> | <iframe src="https://maps.google.com/maps?q=三街两巷&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> |
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h4>机场至酒店路线</h4>
+    <iframe src="https://maps.google.com/maps?saddr=南宁吴圩国际机场&daddr=南宁饭店&output=embed" width="100%" height="400"></iframe>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h4>三街两巷美食街位置</h4>
+    <iframe src="https://maps.google.com/maps?q=三街两巷&output=embed" width="100%" height="400"></iframe>
+  </div>
+</div>
 
 ---
 
@@ -127,9 +134,16 @@ graph LR
 
 ### 地图导航
 
-| 南宁市到德天瀑布 | 明仕田园 |
-|:---------|:-----|
-| <iframe src="https://maps.google.com/maps?saddr=南宁市&daddr=德天瀑布&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> | <iframe src="https://maps.google.com/maps?saddr=德天瀑布&daddr=明仕田园&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> |
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h4>南宁市到德天瀑布</h4>
+    <iframe src="https://maps.google.com/maps?saddr=南宁市&daddr=德天瀑布&output=embed" width="100%" height="400"></iframe>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h4>明仕田园</h4>
+    <iframe src="https://maps.google.com/maps?saddr=德天瀑布&daddr=明仕田园&output=embed" width="100%" height="400"></iframe>
+  </div>
+</div>
 
 ---
 

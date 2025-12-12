@@ -1,6 +1,8 @@
 theme: minima
-title: Neo's Blog
 
+title: Neo Space
+minima:
+  skin: auto
 # Blog configuration
 permalink: /:year/:month/:day/:title/
 paginate: 5

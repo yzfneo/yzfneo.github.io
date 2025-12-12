@@ -119,12 +119,17 @@ graph LR
 - 🚣 竹筏漂流体验
 - 🌅 日落观景最佳位置
 
-📸 德天瀑布:
+### 图片
 
-![德天瀑布](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/44/e9/cf.jpg)
+| 德天瀑布 | 明仕田园 |
+|:---------|:-----|
+| <img src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/44/e9/cf.jpg"  style="width: 100%; height: 400;"> | <img src="https://www.moa.gov.cn/xw/qg/201805/W020180529556624447031.jpg"  style="width: 100%; height: 400;"> |
 
-📍 德天瀑布地图：
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13242.678689277724!2d106.81078583773034!3d22.814902001438224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b5949ce9842a4b%3A0x109128d98e5f7985!2z5b635aSp54CR5biD!5e0!3m2!1sen!2sus!4v1765413122544!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+### 地图导航
+
+| 南宁市到德天瀑布 | 明仕田园 |
+|:---------|:-----|
+| <iframe src="https://maps.google.com/maps?saddr=南宁市&daddr=德天瀑布&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> | <iframe src="https://maps.google.com/maps?saddr=德天瀑布&daddr=明仕田园&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe> |
 
 ---
 
@@ -143,18 +148,11 @@ graph LR
 | 20:00-21:30 | 正阳路步行街         | 步行        | 晚餐：石记米粉                   |
 
 
-📍 白头叶猴保护区位置：
+### 图片
 
-<img src="http://www.news.cn/local/20251204/ce40e9bc1b2c4ce0b0009115c6596277/20251204ce40e9bc1b2c4ce0b0009115c6596277_489db10b3b524d70ba9c87fed4ef26cc.JPG" alt="白头叶猴保护区" style="width: 600; height: auto;">
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.2855660874616!2d107.51533971252847!3d22.26716997962596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b4f057b3266d57%3A0x2a7d4ace67939add!2sChongzuo%20Nature%20Reserve%20Area!5e0!3m2!1sen!2sus!4v1765498803167!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-
-📸 象鼻山日落：
-
-<img src="https://epaper.guilinlife.com/glrbh5/glrb/20240227/0405_0405_2115.jpg" alt="白头叶猴保护区" style="width: 600; height: auto;">
+| 白头叶猴保护区 | 象鼻山 | 日月双塔 | 正阳路步行街 |
+|:---------|:-----|:-----|:-----|
+| <img src="http://www.news.cn/local/20251204/ce40e9bc1b2c4ce0b0009115c6596277/20251204ce40e9bc1b2c4ce0b0009115c6596277_489db10b3b524d70ba9c87fed4ef26cc.JPG"  style="width: 100%; height: 200;"> | <img src="https://epaper.guilinlife.com/glrbh5/glrb/20240227/0405_0405_2115.jpg"  style="width: 100%; height: 200;"> |  <img src="https://ak-d.tripcdn.com/images/0100x120007ymb8m66429_C_1200_800_Q70.jpg?proc=source%2ftrip"  style="width: 100%; height: 200;"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/89738-Guilin_%2849040795886%29.jpg/1280px-89738-Guilin_%2849040795886%29.jpg"  style="width: 100%; height: 200;"> 
 
 ---
 

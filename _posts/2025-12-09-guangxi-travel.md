@@ -75,7 +75,7 @@ graph LR
 ### 图片
 
 | 三街两巷历史街区夜景 | 邕江夜游 |
-|:---------|:-----|
+|:---------:|:-----:|
 | <img src="http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg"  style="width: 100%; height: 400;"> | <img src="https://p2.cri.cn/M00/29/A5/rBABCWCUvZ6ARQ99AAAAAAAAAAA137.800x449.jpg"  style="width: 100%; height: 400;"> |
 
 ### 地图导航
@@ -129,7 +129,7 @@ graph LR
 ### 图片
 
 | 德天瀑布 | 明仕田园 |
-|:---------|:-----|
+|:---------:|:-----:|
 | <img src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/44/e9/cf.jpg"  style="width: 100%; height: 400;"> | <img src="https://www.moa.gov.cn/xw/qg/201805/W020180529556624447031.jpg"  style="width: 100%; height: 400;"> |
 
 ### 地图导航
@@ -164,9 +164,11 @@ graph LR
 
 ### 图片
 
-| 白头叶猴保护区 | 象鼻山 | 日月双塔 | 正阳路步行街 |
-|:---------|:-----|:-----|:-----|
-| <img src="http://www.news.cn/local/20251204/ce40e9bc1b2c4ce0b0009115c6596277/20251204ce40e9bc1b2c4ce0b0009115c6596277_489db10b3b524d70ba9c87fed4ef26cc.JPG"  style="width: 100%; height: 200;"> | <img src="https://epaper.guilinlife.com/glrbh5/glrb/20240227/0405_0405_2115.jpg"  style="width: 100%; height: 200;"> |  <img src="https://ak-d.tripcdn.com/images/0100x120007ymb8m66429_C_1200_800_Q70.jpg?proc=source%2ftrip"  style="width: 100%; height: 200;"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/89738-Guilin_%2849040795886%29.jpg/1280px-89738-Guilin_%2849040795886%29.jpg"  style="width: 100%; height: 200;"> 
+| 白头叶猴保护区 | 象鼻山 | 
+|:---------:|:-----------:|
+| <img src="http://www.news.cn/local/20251204/ce40e9bc1b2c4ce0b0009115c6596277/20251204ce40e9bc1b2c4ce0b0009115c6596277_489db10b3b524d70ba9c87fed4ef26cc.JPG"  style="width: 100%; height: 200;"> | <img src="https://epaper.guilinlife.com/glrbh5/glrb/20240227/0405_0405_2115.jpg"  style="width: 100%; height: 200;"> |
+|日月双塔 | 正阳路步行街 |
+| <img src="https://ak-d.tripcdn.com/images/0100x120007ymb8m66429_C_1200_800_Q70.jpg?proc=source%2ftrip"  style="width: 100%; height: 200;"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/89738-Guilin_%2849040795886%29.jpg/1280px-89738-Guilin_%2849040795886%29.jpg"  style="width: 100%; height: 200;"> 
 
 ---
 

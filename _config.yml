@@ -1,9 +1,6 @@
 title: Neo Space
 
-# theme: minima
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: minima
 minima:
   skin: auto # Or 'dark', 'light', etc.
 

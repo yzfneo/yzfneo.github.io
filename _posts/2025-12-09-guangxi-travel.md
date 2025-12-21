@@ -96,7 +96,7 @@ graph LR
 
 | 三街两巷历史街区夜景 | 邕江夜游 |
 |:---------:|:-----:|
-| <img src="http://p7.itc.cn/q_70/images03/20210102/bdd045b39f4145739fe3b7d4baa5bf2c.jpeg"  style="width: 100%; height: 400;"> | <img src="https://p2.cri.cn/M00/29/A5/rBABCWCUvZ6ARQ99AAAAAAAAAAA137.800x449.jpg"  style="width: 100%; height: 400;"> |
+| <img src="../assets/images/2025-12-09-guangxi-travel/dad81740902d4911b9e175b99ece532a.jpg"  style="width: 100%; height: 400;"> | <img src="../assets/images/2025-12-09-guangxi-travel/f87cf2e4e8dd8def5e4a76ab336e0f70.jpg"  style="width: 100%; height: 400;"> |
 
 ### 地图导航
 
@@ -152,7 +152,7 @@ graph LR
 
 | 德天瀑布 | 明仕田园 |
 |:---------:|:-----:|
-| <img src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/44/e9/cf.jpg"  style="width: 100%; height: 400;"> | <img src="https://www.moa.gov.cn/xw/qg/201805/W020180529556624447031.jpg"  style="width: 100%; height: 400;"> |
+| <img src="../assets/images/2025-12-09-guangxi-travel/0703e4a37c70ded24141c4726192e886.jpg"  style="width: 100%; height: 400;"> | <img src="../assets/images/2025-12-09-guangxi-travel/d309c83e3a040d6b0c179ce16c71933e.jpg"  style="width: 100%; height: 400;"> |
 
 ### 地图导航
 
@@ -188,9 +188,9 @@ graph LR
 
 | 白头叶猴保护区 | 象鼻山 | 
 |:---------:|:-----------:|
-| <img src="http://www.news.cn/local/20251204/ce40e9bc1b2c4ce0b0009115c6596277/20251204ce40e9bc1b2c4ce0b0009115c6596277_489db10b3b524d70ba9c87fed4ef26cc.JPG"  style="width: 100%; height: 200;"> | <img src="https://epaper.guilinlife.com/glrbh5/glrb/20240227/0405_0405_2115.jpg"  style="width: 100%; height: 200;"> |
+| <img src="../assets/images/2025-12-09-guangxi-travel/02da67490f7f8fd4204d555b4a31e711.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/32193af60805dd00f6598978daade59f.jpg"  style="width: 100%; height: 200;"> |
 |日月双塔 | 正阳路步行街 |
-| <img src="https://ak-d.tripcdn.com/images/0100x120007ymb8m66429_C_1200_800_Q70.jpg?proc=source%2ftrip"  style="width: 100%; height: 200;"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/89738-Guilin_%2849040795886%29.jpg/1280px-89738-Guilin_%2849040795886%29.jpg"  style="width: 100%; height: 200;"> 
+| <img src="../assets/images/2025-12-09-guangxi-travel/648c11ab643c0d875d17d6757ee48e81.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/8edbfd8298a3d2c4221ce8d9fd158018.jpg"  style="width: 100%; height: 200;"> 
 
 ---
 
@@ -227,9 +227,9 @@ graph LR
 
 | 十里画廊骑行 | 遇龙河竹筏漂流 | 
 |:---------:|:-----------:|
-| <img src="https://www.guangxitrip.com/pic/guilin/jingdian/yu-long-he/yu-long-he-qi-zi-xing-che-2.jpg"  style="width: 100%; height: 200;"> | <img src="http://www.gx.xinhuanet.com/20240914/b5c478e354504590af7bc55c71a61431/20240914b5c478e354504590af7bc55c71a61431_257002695d3c4f85b4ee4eacdb9c81c6.jpg"  style="width: 100%; height: 200;"> |
+| <img src="../assets/images/2025-12-09-guangxi-travel/4099dfea39ad1d424fa14729965c0502.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/aa73e74d5938c8280a073a55743e7763.jpg"  style="width: 100%; height: 200;"> |
 |渔火节 | 西街啤酒鱼 |
-| <img src="http://gx.people.com.cn/NMediaFile/2024/1227/LOCAL17352596640659CR917SJWE.jpg"  style="width: 100%; height: 200;"> | <img src="https://ak-d.tripcdn.com/images/1tx0212000i4wxt33EA88_C_760_506_R5.jpg?proc=autoorient"  style="width: 100%; height: 200;"> 
+| <img src="../assets/images/2025-12-09-guangxi-travel/d8878e5dda3c6361addaf54a95895b90.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/c209b33c479cd4cc93bb5bb9daa81ca4.jpg"  style="width: 100%; height: 200;"> 
 
 ---
 
@@ -248,9 +248,9 @@ graph LR
 
 | 龙门水岩探洞 | 兴坪古镇 | 
 |:---------:|:-----------:|
-| <img src="https://www.daheyoulun.com/uploads/2025/03/05/1741161458411.jpg"  style="width: 100%; height: 200;"> | <img src="https://data.tibetcn.com/pictures/xingping-old-town2.jpg"  style="width: 100%; height: 200;"> |
+| <img src="../assets/images/2025-12-09-guangxi-travel/d15eb905d90301904eec5ea229dd7557.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/c7864cfaa9a9f7450294f40f8e8e617e.jpg"  style="width: 100%; height: 200;"> |
 |20元人民币背景 | 千里江山图日落 |
-| <img src="https://p7.itc.cn/images01/20221228/c9b3296fbe3d465c8b566cac0312b193.jpeg"  style="width: 100%; height: 200;"> | <img src="https://ak-d.tripcdn.com/images/1mi0812000jx3w88rC6AF_W_640_0_R5_Q80.jpg?proc=source/trip"  style="width: 100%; height: 200;"> 
+| <img src="../assets/images/2025-12-09-guangxi-travel/3daee2f29de7b99a9618b107e1354e2b.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/18aa6ca4af97f6e94663b4028ab1b60e.jpg"  style="width: 100%; height: 200;"> 
 
 ---
 
@@ -272,9 +272,9 @@ graph LR
 
 | 相公山日出 | 靖江王府 | 
 |:---------:|:-----------:|
-| <img src="https://you2.autoimg.cn/_autohomecar__zhouyouji/P1569486165071o54zL7bpE7tV8wnmkA6Avu.jpg?imageMogr2/thumbnail/938/crop/!938x527a0a49"  style="width: 100%; height: 200;"> | <img src="https://static.gxrb.com.cn/image/uploadpic/20221230/ad51a16018a04f0760748c8b01b48e14.jpg"  style="width: 100%; height: 200;"> |
+| <img src="../assets/images/2025-12-09-guangxi-travel/3a3c1b81b5ac04019b81d50b3eb13cc7.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/955dd5dc6049d3a9a2edb87dbce09602.jpg"  style="width: 100%; height: 200;"> |
 |逍遥楼 | 穿山月岩咖啡 |
-| <img src="http://www.glxiaoyaohu.com/upload/image/20150114/20150114171445214521.jpg"  style="width: 100%; height: 200;"> | <img src="https://nimg.guilinlife.com/mmbiz/0Hv7dawHwrANiCvvl6gNvP4AWRZSNMXDOWiBmO6rz8ZuriPEHLXQz3idv0I5U3z_TEROX9fja9r3lXUVB0DZKOg1rryiQyTxuGxKfVIA5QL8re7y7sG_wLGhSpSWQtg9owjYj71Jg0j3Ssyb6a85gA%3D%3D/media"  style="width: 100%; height: 200;"> 
+| <img src="../assets/images/2025-12-09-guangxi-travel/0dd000eaa2dea679561b40ab1d733815.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/050f055fcde1eba4d6925044567a7764.jpg"  style="width: 100%; height: 200;"> 
 
 ---
 

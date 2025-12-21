@@ -47,7 +47,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Watch master chefs prepare fresh seafood right before your eyes. The energy is infectious - vendors shouting their catches, the sizzle of grills, and the freshest sushi you'll ever taste.
 
-![Tsukiji Outer Market]({{ site.url }}/assets/images/tsukiji.jpg)
+![Tsukiji Outer Market](../assets/images/2025-09-21-jp-ca-us-travel/tsukiji.jpg)
 
 **Insider tips:**
 - **Best time:** Arrive by 8 AM to beat crowds and see peak activity
@@ -65,7 +65,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** The approach through Nakamise shopping street is a journey through time - incense wafts through the air as you pass stalls selling traditional snacks and souvenirs. The massive red lantern at Thunder Gate weighs 700kg!
 
-![Senso-ji Temple]({{ site.url }}/assets/images/senso_ji_temple.jpg)
+![Senso-ji Temple](../assets/images/2025-09-21-jp-ca-us-travel/senso_ji_temple.jpg)
 
 **Insider tips:**
 - **Best time:** Early morning or sunset for fewer crowds and magical lighting
@@ -77,7 +77,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Walk through a serene forest of 100,000 trees donated from across Japan to reach the massive wooden torii gate - Japan's largest, made from 1,500-year-old Taiwanese cypress.
 
-![Meiji Shrine]({{ site.url }}/assets/images/meiji_shrine.jpg)
+![Meiji Shrine](../assets/images/2025-09-21-jp-ca-us-travel/meiji_shrine.jpg)
 
 **Insider tips:**
 - **Best time:** Weekday mornings for peaceful contemplation
@@ -89,7 +89,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** It's controlled chaos at its most beautiful - a mesmerizing dance of humanity that symbolizes Japan's post-war economic miracle. Featured in "Lost in Translation" and countless other films.
 
-![Shibuya Crossing]({{ site.url }}/assets/images/shibuya_crossing.jpg)
+![Shibuya Crossing](../assets/images/2025-09-21-jp-ca-us-travel/shibuya_crossing.jpg)
 
 **Insider tips:**
 - **Best view:** From the Magnet rooftop bar or Shibuya Scramble Square observatory
@@ -184,7 +184,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Cycle the seawall (rent bikes for C$8/hour), spot bald eagles and seals, or simply stroll through ancient cedar forests. The views of Lions Gate Bridge and the city skyline are breathtaking.
 
-![Stanley Park]({{ site.url }}/assets/images/Stanley-Park-from-Above.jpg)
+![Stanley Park](../assets/images/2025-09-21-jp-ca-us-travel/Stanley-Park-from-Above.jpg)
 
 **Insider tips:**
 - **Best activity:** Rent a bike and cycle the 9km seawall path
@@ -199,7 +199,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** Walk across a 137m bridge suspended 70m above the Capilano River. The original hemp rope bridge was built in 1889 - now it's steel cables supporting 100 tons!
 
-![Capilano Suspension Bridge Park]({{ site.url }}/assets/images/canilano_bridge.jpg)
+![Capilano Suspension Bridge Park](../assets/images/2025-09-21-jp-ca-us-travel/canilano_bridge.jpg)
 
 **Insider tips:**
 - **Best time:** Early morning to avoid tour bus crowds
@@ -340,7 +340,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** It's controlled chaos at its most charming - fishmongers tossing salmon, artisan cheese makers, and the first Starbucks ever (opened 1971). The energy is infectious!
 
-![Pike Place Market]({{ site.url }}/assets/images/pike_place_market-seattle.jpg)
+![Pike Place Market](../assets/images/2025-09-21-jp-ca-us-travel/pike_place_market-seattle.jpg)
 
 **Insider tips:**
 - **Best time:** Early morning for fresh seafood arrivals
@@ -355,7 +355,7 @@ excerpt: "A meticulously crafted 19-day journey from Japan's neon-lit metropolis
 
 **Why you'll love it:** This 184m tower symbolizes Seattle's Space Age optimism. The rotating restaurant completes a full circle every 47 minutes!
 
-![Space Needle]({{ site.url }}/assets/images/space_needle.jpg)
+![Space Needle](../assets/images/2025-09-21-jp-ca-us-travel/space_needle.jpg)
 
 **Insider tips:**
 - **Best time:** Sunset for magical city-mountain views

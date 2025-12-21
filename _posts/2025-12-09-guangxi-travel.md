@@ -95,12 +95,12 @@ graph LR
 ### 图片
 
 
-![三街两巷历史街区夜景](../assets/images/2025-12-09-guangxi-travel/dad81740902d4911b9e175b99ece532a.jpg)
+![三街两巷历史街区夜景](/assets/images/2025-12-09-guangxi-travel/dad81740902d4911b9e175b99ece532a.jpg)
 *三街两巷历史街区夜景*
 
 
 
-![邕江夜游](../assets/images/2025-12-09-guangxi-travel/f87cf2e4e8dd8def5e4a76ab336e0f70.jpg)
+![邕江夜游](/assets/images/2025-12-09-guangxi-travel/f87cf2e4e8dd8def5e4a76ab336e0f70.jpg)
 *邕江夜游*
 
 
@@ -155,12 +155,12 @@ graph LR
 ### 图片
 
 
-![德天瀑布](../assets/images/2025-12-09-guangxi-travel/0703e4a37c70ded24141c4726192e886.jpg)
+![德天瀑布](/assets/images/2025-12-09-guangxi-travel/0703e4a37c70ded24141c4726192e886.jpg)
 *德天瀑布*
 
 
 
-![明仕田园](../assets/images/2025-12-09-guangxi-travel/d309c83e3a040d6b0c179ce16c71933e.jpg)
+![明仕田园](/assets/images/2025-12-09-guangxi-travel/d309c83e3a040d6b0c179ce16c71933e.jpg)
 *明仕田园*
 
 
@@ -195,22 +195,22 @@ graph LR
 ### 图片
 
 
-![白头叶猴保护区](../assets/images/2025-12-09-guangxi-travel/02da67490f7f8fd4204d555b4a31e711.jpg)
+![白头叶猴保护区](/assets/images/2025-12-09-guangxi-travel/02da67490f7f8fd4204d555b4a31e711.jpg)
 *白头叶猴保护区*
 
 
 
-![象鼻山](../assets/images/2025-12-09-guangxi-travel/32193af60805dd00f6598978daade59f.jpg)
+![象鼻山](/assets/images/2025-12-09-guangxi-travel/32193af60805dd00f6598978daade59f.jpg)
 *象鼻山*
 
 
 
-![日月双塔](../assets/images/2025-12-09-guangxi-travel/648c11ab643c0d875d17d6757ee48e81.jpg)
+![日月双塔](/assets/images/2025-12-09-guangxi-travel/648c11ab643c0d875d17d6757ee48e81.jpg)
 *日月双塔*
 
 
 
-![正阳路步行街](../assets/images/2025-12-09-guangxi-travel/8edbfd8298a3d2c4221ce8d9fd158018.jpg)
+![正阳路步行街](/assets/images/2025-12-09-guangxi-travel/8edbfd8298a3d2c4221ce8d9fd158018.jpg)
 *正阳路步行街*
 
 
@@ -249,22 +249,22 @@ graph LR
 ### 图片
 
 
-![十里画廊骑行](../assets/images/2025-12-09-guangxi-travel/4099dfea39ad1d424fa14729965c0502.jpg)
+![十里画廊骑行](/assets/images/2025-12-09-guangxi-travel/4099dfea39ad1d424fa14729965c0502.jpg)
 *十里画廊骑行*
 
 
 
-![遇龙河竹筏漂流](../assets/images/2025-12-09-guangxi-travel/aa73e74d5938c8280a073a55743e7763.jpg)
+![遇龙河竹筏漂流](/assets/images/2025-12-09-guangxi-travel/aa73e74d5938c8280a073a55743e7763.jpg)
 *遇龙河竹筏漂流*
 
 
 
-![渔火节](../assets/images/2025-12-09-guangxi-travel/d8878e5dda3c6361addaf54a95895b90.jpg)
+![渔火节](/assets/images/2025-12-09-guangxi-travel/d8878e5dda3c6361addaf54a95895b90.jpg)
 *渔火节*
 
 
 
-![西街啤酒鱼](../assets/images/2025-12-09-guangxi-travel/c209b33c479cd4cc93bb5bb9daa81ca4.jpg)
+![西街啤酒鱼](/assets/images/2025-12-09-guangxi-travel/c209b33c479cd4cc93bb5bb9daa81ca4.jpg)
 *西街啤酒鱼*
 
 
@@ -285,22 +285,22 @@ graph LR
 ### 图片
 
 
-![龙门水岩探洞](../assets/images/2025-12-09-guangxi-travel/d15eb905d90301904eec5ea229dd7557.jpg)
+![龙门水岩探洞](/assets/images/2025-12-09-guangxi-travel/d15eb905d90301904eec5ea229dd7557.jpg)
 *龙门水岩探洞*
 
 
 
-![兴坪古镇](../assets/images/2025-12-09-guangxi-travel/c7864cfaa9a9f7450294f40f8e8e617e.jpg)
+![兴坪古镇](/assets/images/2025-12-09-guangxi-travel/c7864cfaa9a9f7450294f40f8e8e617e.jpg)
 *兴坪古镇*
 
 
 
-![20元人民币背景](../assets/images/2025-12-09-guangxi-travel/3daee2f29de7b99a9618b107e1354e2b.jpg)
+![20元人民币背景](/assets/images/2025-12-09-guangxi-travel/3daee2f29de7b99a9618b107e1354e2b.jpg)
 *20元人民币背景*
 
 
 
-![千里江山图日落](../assets/images/2025-12-09-guangxi-travel/18aa6ca4af97f6e94663b4028ab1b60e.jpg)
+![千里江山图日落](/assets/images/2025-12-09-guangxi-travel/18aa6ca4af97f6e94663b4028ab1b60e.jpg)
 *千里江山图日落*
 
 
@@ -324,22 +324,22 @@ graph LR
 ### 图片
 
 
-![相公山日出](../assets/images/2025-12-09-guangxi-travel/3a3c1b81b5ac04019b81d50b3eb13cc7.jpg)
+![相公山日出](/assets/images/2025-12-09-guangxi-travel/3a3c1b81b5ac04019b81d50b3eb13cc7.jpg)
 *相公山日出*
 
 
 
-![靖江王府](../assets/images/2025-12-09-guangxi-travel/955dd5dc6049d3a9a2edb87dbce09602.jpg)
+![靖江王府](/assets/images/2025-12-09-guangxi-travel/955dd5dc6049d3a9a2edb87dbce09602.jpg)
 *靖江王府*
 
 
 
-![逍遥楼](../assets/images/2025-12-09-guangxi-travel/0dd000eaa2dea679561b40ab1d733815.jpg)
+![逍遥楼](/assets/images/2025-12-09-guangxi-travel/0dd000eaa2dea679561b40ab1d733815.jpg)
 *逍遥楼*
 
 
 
-![穿山月岩咖啡](../assets/images/2025-12-09-guangxi-travel/050f055fcde1eba4d6925044567a7764.jpg)
+![穿山月岩咖啡](/assets/images/2025-12-09-guangxi-travel/050f055fcde1eba4d6925044567a7764.jpg)
 *穿山月岩咖啡*
 
 

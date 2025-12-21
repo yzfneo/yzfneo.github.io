@@ -94,9 +94,16 @@ graph LR
 
 ### 图片
 
-| 三街两巷历史街区夜景 | 邕江夜游 |
-|:---------:|:-----:|
-| <img src="../assets/images/2025-12-09-guangxi-travel/dad81740902d4911b9e175b99ece532a.jpg"  style="width: 100%; height: 400;"> | <img src="../assets/images/2025-12-09-guangxi-travel/f87cf2e4e8dd8def5e4a76ab336e0f70.jpg"  style="width: 100%; height: 400;"> |
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/dad81740902d4911b9e175b99ece532a.jpg" alt="三街两巷历史街区夜景" style="width: 100%; height: auto;">
+    <figcaption>三街两巷历史街区夜景</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/f87cf2e4e8dd8def5e4a76ab336e0f70.jpg" alt="邕江夜游" style="width: 100%; height: auto;">
+    <figcaption>邕江夜游</figcaption>
+  </figure>
+</div>
 
 ### 地图导航
 
@@ -150,9 +157,16 @@ graph LR
 
 ### 图片
 
-| 德天瀑布 | 明仕田园 |
-|:---------:|:-----:|
-| <img src="../assets/images/2025-12-09-guangxi-travel/0703e4a37c70ded24141c4726192e886.jpg"  style="width: 100%; height: 400;"> | <img src="../assets/images/2025-12-09-guangxi-travel/d309c83e3a040d6b0c179ce16c71933e.jpg"  style="width: 100%; height: 400;"> |
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/0703e4a37c70ded24141c4726192e886.jpg" alt="德天瀑布" style="width: 100%; height: auto;">
+    <figcaption>德天瀑布</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/d309c83e3a040d6b0c179ce16c71933e.jpg" alt="明仕田园" style="width: 100%; height: auto;">
+    <figcaption>明仕田园</figcaption>
+  </figure>
+</div>
 
 ### 地图导航
 
@@ -186,11 +200,26 @@ graph LR
 
 ### 图片
 
-| 白头叶猴保护区 | 象鼻山 | 
-|:---------:|:-----------:|
-| <img src="../assets/images/2025-12-09-guangxi-travel/02da67490f7f8fd4204d555b4a31e711.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/32193af60805dd00f6598978daade59f.jpg"  style="width: 100%; height: 200;"> |
-|日月双塔 | 正阳路步行街 |
-| <img src="../assets/images/2025-12-09-guangxi-travel/648c11ab643c0d875d17d6757ee48e81.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/8edbfd8298a3d2c4221ce8d9fd158018.jpg"  style="width: 100%; height: 200;"> 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/02da67490f7f8fd4204d555b4a31e711.jpg" alt="白头叶猴保护区" style="width: 100%; height: auto;">
+    <figcaption>白头叶猴保护区</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/32193af60805dd00f6598978daade59f.jpg" alt="象鼻山" style="width: 100%; height: auto;">
+    <figcaption>象鼻山</figcaption>
+  </figure>
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/648c11ab643c0d875d17d6757ee48e81.jpg" alt="日月双塔" style="width: 100%; height: auto;">
+    <figcaption>日月双塔</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/8edbfd8298a3d2c4221ce8d9fd158018.jpg" alt="正阳路步行街" style="width: 100%; height: auto;">
+    <figcaption>正阳路步行街</figcaption>
+  </figure>
+</div>
 
 ---
 
@@ -225,11 +254,26 @@ graph LR
 📸 
 ### 图片
 
-| 十里画廊骑行 | 遇龙河竹筏漂流 | 
-|:---------:|:-----------:|
-| <img src="../assets/images/2025-12-09-guangxi-travel/4099dfea39ad1d424fa14729965c0502.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/aa73e74d5938c8280a073a55743e7763.jpg"  style="width: 100%; height: 200;"> |
-|渔火节 | 西街啤酒鱼 |
-| <img src="../assets/images/2025-12-09-guangxi-travel/d8878e5dda3c6361addaf54a95895b90.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/c209b33c479cd4cc93bb5bb9daa81ca4.jpg"  style="width: 100%; height: 200;"> 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/4099dfea39ad1d424fa14729965c0502.jpg" alt="十里画廊骑行" style="width: 100%; height: auto;">
+    <figcaption>十里画廊骑行</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/aa73e74d5938c8280a073a55743e7763.jpg" alt="遇龙河竹筏漂流" style="width: 100%; height: auto;">
+    <figcaption>遇龙河竹筏漂流</figcaption>
+  </figure>
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/d8878e5dda3c6361addaf54a95895b90.jpg" alt="渔火节" style="width: 100%; height: auto;">
+    <figcaption>渔火节</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/c209b33c479cd4cc93bb5bb9daa81ca4.jpg" alt="西街啤酒鱼" style="width: 100%; height: auto;">
+    <figcaption>西街啤酒鱼</figcaption>
+  </figure>
+</div>
 
 ---
 
@@ -246,11 +290,26 @@ graph LR
 
 ### 图片
 
-| 龙门水岩探洞 | 兴坪古镇 | 
-|:---------:|:-----------:|
-| <img src="../assets/images/2025-12-09-guangxi-travel/d15eb905d90301904eec5ea229dd7557.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/c7864cfaa9a9f7450294f40f8e8e617e.jpg"  style="width: 100%; height: 200;"> |
-|20元人民币背景 | 千里江山图日落 |
-| <img src="../assets/images/2025-12-09-guangxi-travel/3daee2f29de7b99a9618b107e1354e2b.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/18aa6ca4af97f6e94663b4028ab1b60e.jpg"  style="width: 100%; height: 200;"> 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/d15eb905d90301904eec5ea229dd7557.jpg" alt="龙门水岩探洞" style="width: 100%; height: auto;">
+    <figcaption>龙门水岩探洞</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/c7864cfaa9a9f7450294f40f8e8e617e.jpg" alt="兴坪古镇" style="width: 100%; height: auto;">
+    <figcaption>兴坪古镇</figcaption>
+  </figure>
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/3daee2f29de7b99a9618b107e1354e2b.jpg" alt="20元人民币背景" style="width: 100%; height: auto;">
+    <figcaption>20元人民币背景</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/18aa6ca4af97f6e94663b4028ab1b60e.jpg" alt="千里江山图日落" style="width: 100%; height: auto;">
+    <figcaption>千里江山图日落</figcaption>
+  </figure>
+</div>
 
 ---
 
@@ -270,11 +329,26 @@ graph LR
 
 ### 图片
 
-| 相公山日出 | 靖江王府 | 
-|:---------:|:-----------:|
-| <img src="../assets/images/2025-12-09-guangxi-travel/3a3c1b81b5ac04019b81d50b3eb13cc7.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/955dd5dc6049d3a9a2edb87dbce09602.jpg"  style="width: 100%; height: 200;"> |
-|逍遥楼 | 穿山月岩咖啡 |
-| <img src="../assets/images/2025-12-09-guangxi-travel/0dd000eaa2dea679561b40ab1d733815.jpg"  style="width: 100%; height: 200;"> | <img src="../assets/images/2025-12-09-guangxi-travel/050f055fcde1eba4d6925044567a7764.jpg"  style="width: 100%; height: 200;"> 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/3a3c1b81b5ac04019b81d50b3eb13cc7.jpg" alt="相公山日出" style="width: 100%; height: auto;">
+    <figcaption>相公山日出</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/955dd5dc6049d3a9a2edb87dbce09602.jpg" alt="靖江王府" style="width: 100%; height: auto;">
+    <figcaption>靖江王府</figcaption>
+  </figure>
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/0dd000eaa2dea679561b40ab1d733815.jpg" alt="逍遥楼" style="width: 100%; height: auto;">
+    <figcaption>逍遥楼</figcaption>
+  </figure>
+  <figure style="flex: 1; margin: 0; text-align: center;">
+    <img src="../assets/images/2025-12-09-guangxi-travel/050f055fcde1eba4d6925044567a7764.jpg" alt="穿山月岩咖啡" style="width: 100%; height: auto;">
+    <figcaption>穿山月岩咖啡</figcaption>
+  </figure>
+</div>
 
 ---
 
